@@ -3,5 +3,6 @@
     echo "My name is pumipat";
     echo "Mahanakorn";
     echo "6811850009";
-    echo "Pepsi";
+    echo "ronaldo";
+    echo "Nobita";
 ?>
